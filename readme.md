@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2FFF,100:FF00E5&height=200&section=header&text=UPirc&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="UPirc" width="100%"/>
 
-!<img src="assets/logo.png" alt="UPirc logo" width="220"/>
+<img src="assets/logo.png" alt="UPirc logo" width="170"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Chat+aman.+Koneksi+terenkripsi.+Kendali+di+tanganmu.;Secure+chat.+Encrypted+connection.+You+stay+in+control.;%2Fconnect+irc.upirc.com+6697+%F0%9F%94%92;Built+with+heart+by+one+developer" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Chat+aman.+Koneksi+terenkripsi.+Kendali+di+tanganmu.;Secure+chat.+Encrypted+connection.+You+stay+in+control.;%2Fconnect+irc.upirc.com+6697+%F0%9F%94%92;Built+by+one+maker+%2B+AI.+Made+with+heart" alt="typing"/>
 </a>
 
 <br/>
@@ -69,7 +69,7 @@ UPirc adalah klien **IRC untuk Android** dengan rasa klasik **mIRC** dan tampila
 - 🔐 **Keamanan jadi prioritas.** TLS, SASL, dan kendali sertifikat ada sejak rilis awal, bukan tambahan belakangan.
 - 🧰 **Satu aplikasi, banyak alat.** Chat, moderasi channel, dan toolkit jaringan lengkap (`/dns` `/rdns` `/ip` `/asn` `/dnsbl` `/ping` `/port` `/tracert` `/ssl` `/http` `/domain` `/myip` `/lag` `/net`) tanpa pindah aplikasi.
 - 🎨 **Klasik di dalam, futuristik di luar.** Warna & format mIRC, autocomplete nick, emoji, pencarian chat, template pesan, alias kustom.
-- 🧑‍💻 **Dibuat dengan sepenuh hati oleh satu orang.** Setiap fitur, perbaikan bug, dan detail desain dikerjakan langsung oleh satu developer. Hasilnya aplikasi yang punya karakter dan perhatian pada detail.
+- 🧑‍💻 **Dibuat sepenuh hati oleh satu orang, dibantu AI.** Ide, arah desain, pengujian, dan semua keputusan produk datang dari satu pembuat. Penulisan kodenya dibantu AI, dan itu disampaikan secara terbuka.
 - 📈 **Aktif berkembang.** Rilis terus diperbarui dengan fitur dan perbaikan baru. Lihat catatannya di [Releases](https://github.com/TRZUPIRC/upirc/releases).
 
 ## 🧩 Fitur lengkap
@@ -125,9 +125,9 @@ UPirc adalah klien **IRC untuk Android** dengan rasa klasik **mIRC** dan tampila
 2. Unduh file **`.apk`** terbaru dan pasang (izinkan *instal dari sumber tak dikenal* bila diminta).
 3. Buka UPirc. Server aman bawaan sudah siap, tinggal masuk ke **#UPirc**. 🎉
 
-## 🤝 Dari developer untuk developer
+## 🤝 Dari pembuat solo untuk sesama developer
 
-UPirc adalah proyek pribadi yang dibangun dengan **Kotlin + Jetpack Compose** oleh satu orang yang peduli pada kualitas. Masukan, laporan bug, dan ide fitur sangat disambut lewat [Issues](https://github.com/TRZUPIRC/upirc/issues) atau langsung di channel **#UPirc**. Kalau kamu suka, **kasih ⭐** dan ceritakan ke teman, itu sangat berarti bagi proyek yang dikerjakan sendirian.
+UPirc adalah proyek pribadi berbasis **Kotlin + Jetpack Compose**, dikembangkan oleh satu orang dengan bantuan AI. Pembuatnya mengarahkan produk, menguji, dan merilisnya sendiri. Masukan, laporan bug, dan ide fitur sangat disambut lewat [Issues](https://github.com/TRZUPIRC/upirc/issues) atau langsung di channel **#UPirc**. Kalau kamu suka, **kasih ⭐** dan ceritakan ke teman, itu sangat berarti bagi proyek yang dikerjakan sendirian.
 
 <br/>
 
@@ -161,7 +161,7 @@ UPirc is an **Android IRC client** with the classic **mIRC** feel and a **futuri
 - 🔐 **Security first.** TLS, SASL, and certificate control have been here since the first release, not bolted on later.
 - 🧰 **One app, many tools.** Chat, channel moderation, and a full network toolkit (`/dns` `/rdns` `/ip` `/asn` `/dnsbl` `/ping` `/port` `/tracert` `/ssl` `/http` `/domain` `/myip` `/lag` `/net`) without switching apps.
 - 🎨 **Classic inside, futuristic outside.** mIRC colors & formatting, nick autocomplete, emoji, chat search, message templates, custom aliases.
-- 🧑‍💻 **Built with all heart by one person.** Every feature, bug fix, and design detail is handled by a single developer. The result is an app with character and attention to detail.
+- 🧑‍💻 **Built with all heart by one person, assisted by AI.** The ideas, design direction, testing, and every product decision come from one maker. The code is written with AI assistance, and that's stated openly.
 - 📈 **Actively evolving.** New releases keep adding features and fixes. See the notes on [Releases](https://github.com/TRZUPIRC/upirc/releases).
 
 ## 🧩 Full feature list
@@ -217,9 +217,9 @@ UPirc is an **Android IRC client** with the classic **mIRC** feel and a **futuri
 2. Download the latest **`.apk`** and install it (allow *install from unknown sources* if prompted).
 3. Launch UPirc. The secure default server is ready, just hop into **#UPirc**. 🎉
 
-## 🤝 From a developer, for developers
+## 🤝 From a solo maker, for fellow developers
 
-UPirc is a personal project built with **Kotlin + Jetpack Compose** by one person who cares about quality. Feedback, bug reports, and feature ideas are very welcome via [Issues](https://github.com/TRZUPIRC/upirc/issues) or right in the **#UPirc** channel. If you like it, **drop a ⭐** and tell a friend. It means a lot to a solo-built project.
+UPirc is a personal project based on **Kotlin + Jetpack Compose**, developed by one person with AI assistance. The maker steers the product, tests it, and ships it alone. Feedback, bug reports, and feature ideas are very welcome via [Issues](https://github.com/TRZUPIRC/upirc/issues) or right in the **#UPirc** channel. If you like it, **drop a ⭐** and tell a friend. It means a lot to a solo-built project.
 
 <br/>
 
