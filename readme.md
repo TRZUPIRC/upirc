@@ -1,238 +1,251 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2FFF,100:FF00E5&height=220&section=header&text=UPirc&fontSize=84&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IRC%20Client%20for%20Android%20%E2%80%A2%20mIRC-style%20%E2%80%A2%20Neon%20Tech&descSize=18&descAlignY=62" alt="UPirc banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:00F0FF,50:7B2FFF,100:FF00E5&height=200&section=header&text=UPirc&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=42" alt="UPirc" width="100%"/>
 
-!<img src="assests/logo.png" alt="UPirc logo" width="220"/>
+<img src="assets/logo.png" alt="UPirc logo" width="170"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=700&lines=%2Fconnect+irc.upirc.com+6697+%F0%9F%94%92;Klien+IRC+Android+bergaya+mIRC;TLS+%E2%80%A2+SASL+%E2%80%A2+Multi-server+%E2%80%A2+Moderasi+lengkap;Join+%23UPirc+%E2%80%94+ngobrol%2C+main+game%2C+ketemu+bot" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Chat+aman.+Koneksi+terenkripsi.+Kendali+di+tanganmu.;Secure+chat.+Encrypted+connection.+You+stay+in+control.;%2Fconnect+irc.upirc.com+6697+%F0%9F%94%92;Built+with+heart+by+one+developer" alt="typing"/>
 </a>
 
 <br/>
 
-![Platform](https://img.shields.io/badge/Platform-Android-39FF14?style=for-the-badge&logo=android&logoColor=white&labelColor=0D1117)
-![Kotlin](https://img.shields.io/badge/Kotlin-Jetpack%20Compose-7B2FFF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0D1117)
-![Version](https://img.shields.io/github/v/release/TRZUPIRC/upirc?style=for-the-badge&color=00F0FF&labelColor=0D1117&label=Release)
-![TLS](https://img.shields.io/badge/TLS%2FSSL-6697-FF00E5?style=for-the-badge&logo=letsencrypt&logoColor=white&labelColor=0D1117)
-![Package](https://img.shields.io/badge/com.trz.upirc-FFB800?style=for-the-badge&labelColor=0D1117)
+![Android](https://img.shields.io/badge/ANDROID-39FF14?style=for-the-badge&logo=android&logoColor=black&labelColor=0D1117)
+![TLS](https://img.shields.io/badge/TLS%2FSSL-00F0FF?style=for-the-badge&logo=letsencrypt&logoColor=black&labelColor=0D1117)
+![SASL](https://img.shields.io/badge/SASL%20LOGIN-FF00E5?style=for-the-badge&logo=authelia&logoColor=white&labelColor=0D1117)
+![Kotlin](https://img.shields.io/badge/KOTLIN%20%2B%20COMPOSE-7B2FFF?style=for-the-badge&logo=kotlin&logoColor=white&labelColor=0D1117)
+![Release](https://img.shields.io/github/v/release/TRZUPIRC/upirc?style=for-the-badge&color=FFB800&labelColor=0D1117&label=LATEST)
 
 <br/>
 
-[**⬇️ Download APK**](https://github.com/TRZUPIRC/upirc/releases/latest) &nbsp;•&nbsp; [**📜 Changelog**](#-riwayat-rilis--release-history) &nbsp;•&nbsp; [**💬 Join #UPirc**](#-komunitas--community)
+### [⬇️ &nbsp;DOWNLOAD APK](https://github.com/TRZUPIRC/upirc/releases/latest) &nbsp;•&nbsp; [📜 &nbsp;RELEASES](https://github.com/TRZUPIRC/upirc/releases) &nbsp;•&nbsp; [💬 &nbsp;#UPirc](#-join-upirc)
+
+<br/>
+
+**🌐 &nbsp;[🇮🇩 Bahasa Indonesia](#-bahasa-indonesia) &nbsp;│&nbsp; [🇬🇧 English](#-english)**
 
 </div>
 
----
-
-## ⚡ Tentang UPirc
-
-**UPirc** adalah klien **IRC untuk Android** dengan nuansa klasik **mIRC** yang dibungkus tampilan modern bertema neon. Dibuat untuk pengguna IRC serius: stabil, cepat, kaya alat moderasi, dan punya perangkat jaringan bawaan.
-
-> 🇬🇧 **UPirc** is an **Android IRC client** with the classic **mIRC** feel, wrapped in a modern neon-tech interface. Built for serious IRC users: stable, fast, loaded with moderation tools and built-in network utilities.
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2FFF,100:FF00E5&height=3" width="100%" alt=""/>
 
 ```text
-┌──────────────────────────────────────────────┐
-│ [Status] [#UPirc] [#channel] [PM: nick] ...  │
-│──────────────────────────────────────────────│
-│ * Connected to irc.upirc.com:6697 (TLS)      │
-│ <nick> halo semua 👋                         │
-│ * nick2 is away (auto-reply aktif)           │
-│──────────────────────────────────────────────│
-│ > /whois nick_                               │
-└──────────────────────────────────────────────┘
+ ╔══════════════════════════════════════════════════════════╗
+ ║  [Status] [#UPirc] [#dev] [PM: nick]      🔒 TLS aktif   ║
+ ╠══════════════════════════════════════════════════════════╣
+ ║  * Connecting to irc.upirc.com:6697 (TLS)...             ║
+ ║  * SASL authentication successful                        ║
+ ║  * Connected. Your session is encrypted.                 ║
+ ║  <Inem> Selamat datang di #UPirc! 🤖                     ║
+ ╠══════════════════════════════════════════════════════════╣
+ ║  > /ssl irc.upirc.com_                                   ║
+ ╚══════════════════════════════════════════════════════════╝
 ```
 
----
+<br/>
 
-## 🚀 Fitur Utama · Key Features
+# 🇮🇩 Bahasa Indonesia
+
+## 🔐 Ngobrol bebas, tetap aman
+
+IRC adalah jaringan obrolan legendaris, tapi banyak klien IRC mobile yang terasa ketinggalan zaman dan abai soal keamanan. **UPirc dibuat untuk mengubah itu.**
+
+UPirc adalah klien **IRC untuk Android** dengan rasa klasik **mIRC** dan tampilan **neon futuristik**. Prinsipnya sederhana: **koneksimu terenkripsi, identitasmu terverifikasi, dan kamu yang memegang kendali.**
+
+### 🛡️ Keamanan di setiap lapisan
+
+| Lapisan | Yang kamu dapatkan |
+|:--|:--|
+| 🔒 **Koneksi terenkripsi** | **TLS/SSL** bawaan. Server bawaan `irc.upirc.com` memakai port aman **6697**, jadi lalu lintas antara ponselmu dan server tidak terbaca pihak ketiga di jaringan (Wi-Fi publik sekalipun). |
+| 🪪 **Login SASL** | Autentikasi **SASL** langsung saat koneksi. Kredensial tidak perlu dikirim lewat perintah manual di chat. |
+| 🔎 **Verifikasi server** | Periksa sertifikat dan keamanan server sendiri dengan `/ssl`, `/http`, `/dns`, `/rdns`, `/dnsbl`. |
+| 🎛️ **Kendali sertifikat** | Opsi "Percayai semua sertifikat" bersifat **opsional dan per profil server**, jadi hanya aktif untuk server yang memang kamu percaya. |
+| 🧱 **Proteksi channel** | Ban list, **Host Scanner**, deteksi **clone**, **shitlist**, akses otomatis, dan pengaturan proteksi untuk menjaga channel dari penyusup. |
+| 🔄 **Tetap tersambung** | Sambung ulang otomatis dan notifikasi koneksi yang selalu tampil, jadi kamu tahu status sesimu setiap saat. |
+
+> 💡 **Catatan jujur:** TLS mengenkripsi jalur antara aplikasi dan server IRC. Ini bukan enkripsi ujung-ke-ujung antar pengguna, dan UPirc tidak mengklaim demikian.
+
+## 🚀 Kenapa UPirc?
+
+- 🔐 **Keamanan jadi prioritas.** TLS, SASL, dan kendali sertifikat ada sejak rilis awal, bukan tambahan belakangan.
+- 🧰 **Satu aplikasi, banyak alat.** Chat, moderasi channel, dan toolkit jaringan lengkap (`/dns` `/rdns` `/ip` `/asn` `/dnsbl` `/ping` `/port` `/tracert` `/ssl` `/http` `/domain` `/myip` `/lag` `/net`) tanpa pindah aplikasi.
+- 🎨 **Klasik di dalam, futuristik di luar.** Warna & format mIRC, autocomplete nick, emoji, pencarian chat, template pesan, alias kustom.
+- 🧑‍💻 **Dibuat dengan sepenuh hati oleh satu orang.** Setiap fitur, perbaikan bug, dan detail desain dikerjakan langsung oleh satu developer. Hasilnya aplikasi yang punya karakter dan perhatian pada detail.
+- 📈 **Aktif berkembang.** Rilis terus diperbarui dengan fitur dan perbaikan baru. Lihat catatannya di [Releases](https://github.com/TRZUPIRC/upirc/releases).
+
+## 🧩 Fitur lengkap
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Koneksi · Connectivity
-- 🗂️ Tab **Status**, channel, **PM**, & **multi-server**
-- 💾 Profil server tersimpan
-- 🔒 **TLS/SSL** + sambung ulang otomatis
-- 🔑 **Login SASL**, **OPER otomatis**
-- 🛡️ "Percayai semua sertifikat" per profil
+#### 🌐 Koneksi
+- Tab **Status**, channel, **PM**, **multi-server**
+- Profil server tersimpan
+- **TLS/SSL** + sambung ulang otomatis
+- **SASL** & **OPER otomatis**
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 Chat · Messaging
-- ✉️ Pesan, aksi (`/me`), dan **NOTICE**
-- 🎨 Warna & format **mIRC**
-- 😄 Emoji & **autocomplete nick**
-- 🔍 Cari teks & aksi pada baris chat
-- 🧾 Riwayat input & template pesan
+#### 💬 Obrolan
+- Pesan, aksi, **NOTICE**
+- Warna & format **mIRC**, emoji
+- **Autocomplete nick**, cari & aksi baris chat
+- Riwayat input & template pesan
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Moderasi · Moderation
-- 🚫 Daftar **ban** & **Host Scanner**
-- 👥 Aksi kelompok & deteksi **clone**
-- 📋 **Shitlist** & akses otomatis
-- ⚙️ Pengaturan proteksi channel
-- 🏅 Daftar user dengan level akses
+#### 🛡️ Moderasi
+- Ban list, **Host Scanner**
+- Aksi kelompok, deteksi **clone**
+- **Shitlist**, akses otomatis
+- Level akses di daftar user
 
 </td>
 <td width="50%" valign="top">
 
-### 🧰 Utilitas · Utilities
-- 💤 **Away** auto-reply
-- 🔔 **Notify** list
-- ⌨️ Alias perintah kustom
-- 👁️ `/seen`
-- 📻 Radio opsional
+#### 🧰 Utilitas
+- **Away** auto-reply, **Notify** list
+- Alias perintah kustom, `/seen`
+- Radio opsional
 
 </td>
 </tr>
 </table>
 
-### 🛰️ Alat Jaringan · Network Toolkit
+#### 🎮 Khusus #UPirc
+🌈 Tab bergaya neon &nbsp;•&nbsp; 👋 Kartu sambutan &nbsp;•&nbsp; 🕹️ Tombol Game (7 permainan) &nbsp;•&nbsp; 🤖 Bot resmi **Inem** & **Vina**
 
-| Perintah | Fungsi |
-|:--|:--|
-| `/dns` `/rdns` | Resolusi DNS & reverse DNS |
-| `/ip` `/asn` | Info alamat IP & ASN |
-| `/dnsbl` | Cek blacklist DNSBL |
-| `/ping` `/port` `/tracert` | Uji konektivitas & rute |
-| `/ssl` `/http` | Inspeksi sertifikat & HTTP |
-| `/domain` `/myip` | Info domain & IP kamu |
-| `/lag` `/net` | Latensi & status jaringan |
-
-### 🎮 Khusus #UPirc · #UPirc Exclusives
-
-- 🌈 Tab bergaya **neon**
-- 👋 **Kartu sambutan**
-- 🕹️ Tombol **Game** (7 permainan)
-- 🤖 Bot resmi **Inem** & **Vina**
-
----
-
-## 📥 Instalasi · Installation
+## 📥 Mulai dalam 1 menit
 
 1. Buka halaman [**Releases**](https://github.com/TRZUPIRC/upirc/releases/latest).
-2. Unduh file **`.apk`** versi terbaru.
-3. Izinkan *Install dari sumber tak dikenal* bila diminta, lalu pasang.
-4. Buka UPirc → server bawaan sudah siap. 🎉
+2. Unduh file **`.apk`** terbaru dan pasang (izinkan *instal dari sumber tak dikenal* bila diminta).
+3. Buka UPirc. Server aman bawaan sudah siap, tinggal masuk ke **#UPirc**. 🎉
 
-## 🔌 Server Bawaan · Default Server
+## 🤝 Dari developer untuk developer
 
-| | |
+UPirc adalah proyek pribadi yang dibangun dengan **Kotlin + Jetpack Compose** oleh satu orang yang peduli pada kualitas. Masukan, laporan bug, dan ide fitur sangat disambut lewat [Issues](https://github.com/TRZUPIRC/upirc/issues) atau langsung di channel **#UPirc**. Kalau kamu suka, **kasih ⭐** dan ceritakan ke teman, itu sangat berarti bagi proyek yang dikerjakan sendirian.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF00E5,50:7B2FFF,100:00F0FF&height=3" width="100%" alt=""/>
+
+<br/>
+
+# 🇬🇧 English
+
+## 🔐 Chat freely. Stay secure.
+
+IRC is a legendary chat network, but many mobile IRC clients feel dated and treat security as an afterthought. **UPirc was built to change that.**
+
+UPirc is an **Android IRC client** with the classic **mIRC** feel and a **futuristic neon look**. The idea is simple: **your connection is encrypted, your identity is verified, and you stay in control.**
+
+### 🛡️ Security at every layer
+
+| Layer | What you get |
 |:--|:--|
-| **Host** | `irc.upirc.com` |
-| **Port** | `6697` (TLS) |
-| **Channel** | `#UPirc` (Auto-join bawaan, bisa dihapus di Pengaturan) |
+| 🔒 **Encrypted connection** | Built-in **TLS/SSL**. The default server `irc.upirc.com` uses secure port **6697**, so traffic between your phone and the server can't be read by third parties on the network (even on public Wi-Fi). |
+| 🪪 **SASL login** | **SASL** authentication during connection. No need to send credentials through manual chat commands. |
+| 🔎 **Verify servers** | Inspect certificates and server health yourself with `/ssl`, `/http`, `/dns`, `/rdns`, `/dnsbl`. |
+| 🎛️ **Certificate control** | "Trust all certificates" is **optional and per server profile**, so it's only on for servers you actually trust. |
+| 🧱 **Channel protection** | Ban list, **Host Scanner**, **clone** detection, **shitlist**, auto access, and protection settings to keep intruders out. |
+| 🔄 **Stay connected** | Auto-reconnect plus a pinned connection notification, so you always know your session status. |
+
+> 💡 **Honest note:** TLS encrypts the path between the app and the IRC server. It is not end-to-end encryption between users, and UPirc doesn't claim to be.
+
+## 🚀 Why UPirc?
+
+- 🔐 **Security first.** TLS, SASL, and certificate control have been here since the first release, not bolted on later.
+- 🧰 **One app, many tools.** Chat, channel moderation, and a full network toolkit (`/dns` `/rdns` `/ip` `/asn` `/dnsbl` `/ping` `/port` `/tracert` `/ssl` `/http` `/domain` `/myip` `/lag` `/net`) without switching apps.
+- 🎨 **Classic inside, futuristic outside.** mIRC colors & formatting, nick autocomplete, emoji, chat search, message templates, custom aliases.
+- 🧑‍💻 **Built with all heart by one person.** Every feature, bug fix, and design detail is handled by a single developer. The result is an app with character and attention to detail.
+- 📈 **Actively evolving.** New releases keep adding features and fixes. See the notes on [Releases](https://github.com/TRZUPIRC/upirc/releases).
+
+## 🧩 Full feature list
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🌐 Connectivity
+- **Status**, channel, **PM** tabs, **multi-server**
+- Saved server profiles
+- **TLS/SSL** + auto-reconnect
+- **SASL** & **auto OPER**
+
+</td>
+<td width="50%" valign="top">
+
+#### 💬 Messaging
+- Messages, actions, **NOTICE**
+- **mIRC** colors & formatting, emoji
+- **Nick autocomplete**, chat search & line actions
+- Input history & message templates
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛡️ Moderation
+- Ban list, **Host Scanner**
+- Group actions, **clone** detection
+- **Shitlist**, auto access
+- Access levels in user list
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧰 Utilities
+- **Away** auto-reply, **Notify** list
+- Custom command aliases, `/seen`
+- Optional radio
+
+</td>
+</tr>
+</table>
+
+#### 🎮 #UPirc Exclusives
+🌈 Neon-styled tab &nbsp;•&nbsp; 👋 Welcome card &nbsp;•&nbsp; 🕹️ Game button (7 games) &nbsp;•&nbsp; 🤖 Official bots **Inem** & **Vina**
+
+## 📥 Get started in 1 minute
+
+1. Open the [**Releases**](https://github.com/TRZUPIRC/upirc/releases/latest) page.
+2. Download the latest **`.apk`** and install it (allow *install from unknown sources* if prompted).
+3. Launch UPirc. The secure default server is ready, just hop into **#UPirc**. 🎉
+
+## 🤝 From a developer, for developers
+
+UPirc is a personal project built with **Kotlin + Jetpack Compose** by one person who cares about quality. Feedback, bug reports, and feature ideas are very welcome via [Issues](https://github.com/TRZUPIRC/upirc/issues) or right in the **#UPirc** channel. If you like it, **drop a ⭐** and tell a friend. It means a lot to a solo-built project.
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7B2FFF,100:FF00E5&height=3" width="100%" alt=""/>
+
+<br/>
+
+## 💬 Join #UPirc
+
+<div align="center">
+
+| 🖥️ Server | 🔌 Port | 📢 Channel |
+|:--:|:--:|:--:|
+| `irc.upirc.com` | `6697` (TLS) | `#UPirc` |
 
 ```irc
 /server irc.upirc.com 6697
 /join #UPirc
 ```
 
----
+<br/>
 
-## 📜 Riwayat Rilis · Release History
+**Dibuat dengan ❤️ dan ☕ oleh satu orang / Made with ❤️ and ☕ by one person: [TRZUPIRC](https://github.com/TRZUPIRC)**
 
-<details open>
-<summary><b>🟣 UPirc 1.1.0</b> — Server bawaan, SASL, seleksi teks</summary>
+<sub>⭐ Suka UPirc? Beri bintang! / Like UPirc? Give it a star!</sub>
 
-### 🇮🇩 Indonesia
-
-**✨ Baru**
-- Server bawaan: `irc.upirc.com` (TLS 6697); tab **#UPirc** selalu pertama setelah Status; #UPirc masuk Auto-join bawaan (bisa dihapus di Pengaturan).
-- Seleksi teks Status per kata/karakter: tekan lama, geser pegangan bebas, **Salin** hanya teks terpilih.
-- **Login SASL**, **OPER otomatis**, dan "Percayai semua sertifikat" per profil server.
-- Perintah operator ditambah, kotak cepat **Identify/Oper**, WHOIS dan `/dns` `/rdns` lebih ringkas.
-- Notifikasi koneksi tetap ada, dengan tombol **Keluar**.
-
-**🛠️ Perbaikan**
-- Crash layanan latar di Android 15+ dan crash acak saat "Server baru".
-- Login SASL tertunda ±15 dtk; tombol "Tutup chat PM" tidak berfungsi.
-
-**🔄 Perubahan**
-- Gambar Inem & Vina dihapus.
-
-### 🇬🇧 English
-
-**✨ New**
-- Default server: `irc.upirc.com` (TLS 6697); **#UPirc** tab always right after Status; #UPirc is in Auto-join by default (removable in Settings).
-- Character-level text selection in Status: long-press, drag handles freely, **Copy** copies only the selected text.
-- **SASL login**, **auto OPER**, and "Trust all certificates" per server profile.
-- More operator commands, quick **Identify/Oper** boxes, tidier WHOIS and `/dns` `/rdns`.
-- Connection notification stays pinned, with an **Exit** button.
-
-**🛠️ Fixes**
-- Background service crash on Android 15+ and random crash on "New server".
-- SASL login delayed ~15 s; "Close PM" button did nothing.
-
-**🔄 Changes**
-- Inem & Vina artwork removed.
-
-</details>
-
-<details>
-<summary><b>🔵 UPirc 1.0.0</b> — Rilis pertama · First release</summary>
-
-### 🇮🇩 Indonesia
-
-Rilis pertama: klien IRC Android bergaya mIRC.
-- Tab Status, channel, pesan pribadi (PM), dan multi-server; profil server tersimpan.
-- Koneksi TLS/SSL, sambung ulang otomatis, daftar user dengan level akses.
-- Pesan, aksi, dan NOTICE; warna/format mIRC, emoji, autocomplete nick, cari dan aksi pada baris chat.
-- Kelola channel dan moderasi: daftar ban, Host Scanner, aksi kelompok, deteksi clone, shitlist, akses otomatis, pengaturan proteksi.
-- Away auto-reply, Notify list, alias perintah kustom, /seen, riwayat input, template pesan, radio opsional.
-- Alat jaringan: `/dns` `/rdns` `/ip` `/asn` `/dnsbl` `/ping` `/port` `/tracert` `/ssl` `/http` `/domain` `/myip` `/lag` `/net`.
-- Khusus #UPirc: tab bergaya neon, kartu sambutan, tombol Game (7 permainan), dan bot resmi Inem & Vina.
-
-### 🇬🇧 English
-
-First release: an mIRC-style IRC client for Android.
-- Status, channel, private message (PM) tabs and multi-server; saved server profiles.
-- TLS/SSL, auto-reconnect, user list with access levels.
-- Messages, actions and NOTICE; mIRC colors/formatting, emoji, nick autocomplete, chat search and line actions.
-- Channel management and moderation: ban list, Host Scanner, group actions, clone detection, shitlist, auto access, protection settings.
-- Away auto-reply, Notify list, custom command aliases, /seen, input history, message templates, optional radio.
-- Network tools: `/dns` `/rdns` `/ip` `/asn` `/dnsbl` `/ping` `/port` `/tracert` `/ssl` `/http` `/domain` `/myip` `/lag` `/net`.
-- #UPirc extras: neon-styled tab, welcome card, Game button (7 games), and the official Inem & Vina bots.
-
-</details>
-
----
-
-## 🧪 Teknologi · Tech Stack
-
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![IRC](https://img.shields.io/badge/Protocol-IRC-00F0FF?style=flat-square)
-![SASL](https://img.shields.io/badge/Auth-SASL-FF00E5?style=flat-square)
-![TLS](https://img.shields.io/badge/Security-TLS%2FSSL-39FF14?style=flat-square)
-
----
-
-## 💬 Komunitas · Community
-
-Gabung dan ngobrol langsung dengan pengguna lain, main game, dan kenalan dengan bot **Inem** & **Vina**:
-
-```irc
-Server  : irc.upirc.com
-Port    : 6697 (TLS)
-Channel : #UPirc
-```
-
----
-
-<div align="center">
-
-**Dibuat dengan ❤️ dan ☕ oleh [TRZUPIRC](https://github.com/TRZUPIRC)**
-
-<sub>Jika UPirc bermanfaat, beri ⭐ pada repo ini!</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:7B2FFF,100:00F0FF&height=110&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF00E5,50:7B2FFF,100:00F0FF&height=110&section=footer" width="100%" alt=""/>
 
 </div>
