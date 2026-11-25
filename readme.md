@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2FFF,100:FF00E5&height=220&section=header&text=UPirc&fontSize=84&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IRC%20Client%20for%20Android%20%E2%80%A2%20mIRC-style%20%E2%80%A2%20Neon%20Tech&descSize=18&descAlignY=62" alt="UPirc banner" width="100%"/>
 
-<img src="assests/logo.png" alt="UPirc logo" width="220"/>
+!<img src="assests/logo.png" alt="UPirc logo" width="220"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=700&lines=%2Fconnect+irc.upirc.com+6697+%F0%9F%94%92;Klien+IRC+Android+bergaya+mIRC;TLS+%E2%80%A2+SASL+%E2%80%A2+Multi-server+%E2%80%A2+Moderasi+lengkap;Join+%23UPirc+%E2%80%94+ngobrol%2C+main+game%2C+ketemu+bot" alt="Typing SVG"/>
