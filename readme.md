@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7B2FFF,100:FF00E5&height=200&section=header&text=UPirc&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=38" alt="UPirc" width="100%"/>
 
-<img src="assets/logo.png" alt="UPirc logo" width="170"/>
+!<img src="assets/logo.png" alt="UPirc logo" width="220"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=00F0FF&center=true&vCenter=true&width=800&lines=Chat+aman.+Koneksi+terenkripsi.+Kendali+di+tanganmu.;Secure+chat.+Encrypted+connection.+You+stay+in+control.;%2Fconnect+irc.upirc.com+6697+%F0%9F%94%92;Built+with+heart+by+one+developer" alt="typing"/>
